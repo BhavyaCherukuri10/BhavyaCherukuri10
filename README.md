@@ -46,11 +46,6 @@ chebhavya@gmail.com
 
 ---
 
-### 📊 GitHub Stats  
-[Your GitHub Stats]  
-[Top Languages Widget]  
-
----
 
 ### 🌟 Featured Projects  
 
