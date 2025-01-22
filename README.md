@@ -49,13 +49,7 @@ chebhavya@gmail.com
 
 ### 🌟 Featured Projects  
 
-#### 🚀 Project Name 1  
-**Description:** Brief description of what this project does and its key features.  
-**Tech Stack:** Python, SQL, Power BI  
 
-#### 💡 Project Name 2  
-**Description:** Brief description of this project and its achievements.  
-**Tech Stack:** Flask, React, MongoDB  
 
 ---
 
